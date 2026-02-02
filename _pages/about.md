@@ -34,9 +34,7 @@ My research focuses on large language model training and inference, LLM-based ag
 
 I have also led multiple industry- and hospital-sponsored collaborative projects with leading partners such as Huawei, Meituan, and Ruijin Hospital, and have participated as a technical lead in research collaborations with Ant Group, Huawei, Meituan, and Alibaba. Many of my research成果 have been successfully deployed in real-world systems and published in top-tier conferences and journals. Over the past five years, I have published more than 70 papers in these venues, including nearly 30 papers as first or corresponding author in CCF A and CAS Q1 venues.
 
-My representative works have appeared in AI Journal, IEEE Transactions on Knowledge and Data Engineering (TKDE), AAAI, ICDE, SIGIR, ACM Multimedia (ACM MM), WWW, KDD, ACL, and Information Processing & Management (IPM). I received the AAAI 2025 Deploy Application Award and the CIKM 2022 Best Short Paper Award. My publications have accumulated over <a href="https://scholar.google.com/citations?user=GqALZFIAAAAJ">
-google scholar citations <strong><span id="total_cit">2,600</span></strong>
-</a>
+My representative works have appeared in AI Journal, IEEE Transactions on Knowledge and Data Engineering (TKDE), AAAI, ICDE, SIGIR, ACM Multimedia (ACM MM), WWW, KDD, ACL, and Information Processing & Management (IPM). I received the AAAI 2025 Deploy Application Award and the CIKM 2022 Best Short Paper Award. My publications have accumulated <a href="https://scholar.google.com/citations?user=GqALZFIAAAAJ"> <strong><span id="total_cit">2,600+</span></strong> Google Scholar citations</a>.
 
 # 💡 Research Interests
 
