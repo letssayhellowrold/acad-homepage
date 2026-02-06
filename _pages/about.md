@@ -82,8 +82,7 @@ Highly motivated undergraduate students (sophomore or junior) at Sun Yat-sen Uni
 
 Tianyu Wu, Shizhu He, **Jingping Liu**, Siqi Sun, Kang Liu, Qing-Long Han, and Yang Tang
 
-<!--
-  `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>` -->
+<strong><span class='show_paper_citations' data='GqALZFIAAAAJ:kNdYIx-mwKoC'></strong>
 
 </div>
 </div>
