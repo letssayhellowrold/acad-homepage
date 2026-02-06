@@ -138,5 +138,3 @@ Tianyu Wu, Shizhu He, **Jingping Liu**, Siqi Sun, Kang Liu, Qing-Long Han, and Y
    [MSDiagnosis: A Benchmark and Framework for Evaluating Large Language Models in Multi-Step Clinical Diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015631)
 3. `Information Processing & Management 2024` **Jingping Liu**, Xianyang Tian, Hanwen Tong, Chenhao Xie, Tong Ruan, Lin Cong, Baohua Wu, and Haofen Wang.
    [Enhancing Chinese Abbreviation Prediction with LLM Generation and Contrastive Evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001286)
-
----
